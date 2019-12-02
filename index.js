@@ -1,18 +1,11 @@
 const get12 = {
-<<<<<<< HEAD
   day1: "chocolate pudding time",
   day2: "yo mamma",
-  day3: "",
+  day3: "t",
   day4: "crack",
-=======
-  day1: "",
-  day2: "",
-  day3: "party time",
-  day4: "",
->>>>>>> 2bb6d703c787e70f613c986cf37c27087ac37634
-  day5: "",
+  day5: "st",
   day6: "almost the number of the beast",
-  day7: "",
+  day7: "ball",
   day8: "octotime",
   day9: "black",
   day10: "boob",
