@@ -1,7 +1,7 @@
 <<<<<<< HEAD
 const get12 = {
-  day1: "",
-  day2: "",
+  day1: "chocolate pudding time",
+  day2: "yo mamma",
   day3: "",
   day4: "crack",
   day5: "",
